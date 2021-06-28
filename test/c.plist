@@ -322,7 +322,9 @@
 				<key>compatible</key>
 				<string>pci8086,2916</string>
 				<key>device-id</key>
-				<data>FikA</data>
+				<data>
+				FikA
+				</data>
 				<key>name</key>
 				<string>pci8086,2916</string>
 			</dict>
@@ -603,9 +605,13 @@
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
-			<data>VAYFAAAAAAAAAAAAAAAAAA==</data>
+			<data>
+			VAYFAAAAAAAAAAAAAAAAAA==
+			</data>
 			<key>Cpuid1Mask</key>
-			<data>////AAAAAAAAAAAAAAAAAA==</data>
+			<data>
+			////AAAAAAAAAAAAAAAAAA==
+			</data>
 			<key>DummyPowerManagement</key>
 			<true/>
 			<key>MaxKernel</key>
@@ -650,21 +656,28 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>MduAPQAAAAAGdQA=</data>
+				<data>
+				MduAPQAAAAAGdQA=
+				</data>
 				<key>Identifier</key>
 				<string>kernel</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>/////wAAAP///wA=</data>
+				<data>
+				/////wAAAP///wA=
+				</data>
 				<key>MaxKernel</key>
 				<string>20.3.99</string>
 				<key>MinKernel</key>
 				<string>17.0.0</string>
 				<key>Replace</key>
-				<data>u7xP6njpXQAAAJA=</data>
+				<data>
+				u7xP6njpXQAAAJA=
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -680,21 +693,28 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>MdKzAYA9AAAAAAZ1</data>
+				<data>
+					MdKzAYA9AAAAAAZ1
+				</data>
 				<key>Identifier</key>
 				<string>kernel</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>////////AAAAAP//</data>
+				<data>
+					////////AAAAAP//
+				</data>
 				<key>MaxKernel</key>
 				<string>21.99.99</string>
 				<key>MinKernel</key>
 				<string>20.4.0</string>
 				<key>Replace</key>
-				<data>urxP6nizAJCQkJDr</data>
+				<data>
+					urxP6nizAJCQkJDr
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -798,7 +818,7 @@
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
 			<key>SerialInit</key>
-			<true/>
+			<false/>
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
@@ -1139,7 +1159,7 @@
 			<key>ReplaceTabWithSpace</key>
 			<false/>
 			<key>Resolution</key>
-			<string>1280x720@32</string>
+			<string>1920x1080@32</string>
 			<key>SanitiseClearScreen</key>
 			<false/>
 			<key>TextRenderer</key>
